@@ -1,0 +1,6 @@
+*.exe binary
+*.dll binary
+*.bat text eol=crlf
+demo/README.txt text eol=crlf
+
+demo/** linguist-vendored
